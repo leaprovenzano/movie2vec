@@ -7,3 +7,7 @@ Skipgram model trained on [MovieLens 20 million ratings](https://grouplens.org/d
 
 
 
+![plot!](data/tsne_movies.png)
+
+
+Check out [the notebook](notebook.ipynb)
